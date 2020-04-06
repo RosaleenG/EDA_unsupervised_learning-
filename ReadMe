@@ -1,0 +1,5 @@
+This project is focused on EDA unsupervised learning techniques and approaches 
+
+It consists in analyzing data from a bank and building clusters with the algorithms seen in class. 
+
+It covers the basics of unsupervised EDA through to some initial linear regression models on the data
